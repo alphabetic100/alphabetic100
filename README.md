@@ -16,7 +16,7 @@
   <h2> Contact Information</h2>
   <pre>
 Email     : mh3214002@gamil.com
-LinkedIn  : https://www.linkedin.com/in/md-nazmul-hasan-095831251/
+LinkedIn  : https://www.linkedin.com/in/md-nazmul-hasan-alphabetic100/
 GitHub    : https://github.com/alphabetic100
   </pre>
 
@@ -29,7 +29,7 @@ GitHub    : https://github.com/alphabetic100
   <h2> Notable Projects</h2>
   <ul>
     <li>
-      <strong><a href="https://github.com/alphabetic100/tic_tac_toe_multiplayer">Tic Tac Toe Multiplayer</a></strong><br>
+      <strong><a href="https://github.com/alphabetic100/tic-tac-toe-multiplayer">Tic Tac Toe Multiplayer</a></strong><br>
       A real-time multiplayer game leveraging Firebase, designed for seamless cross-platform support with an intuitive UI.<br>
       <strong>Technologies Used:</strong> Flutter, Firebase, Dart, Lottie
     </li>
