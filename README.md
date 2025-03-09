@@ -15,7 +15,7 @@
   <!-- Contact Section -->
   <h2> Contact Information</h2>
   <pre>
-Email     : mh3214002@gamil.com
+Email     : dev.nazmul.alpha100@gmail.com
 LinkedIn  : https://www.linkedin.com/in/md-nazmul-hasan-alphabetic100/
 GitHub    : https://github.com/alphabetic100
   </pre>
